@@ -8,4 +8,8 @@ Embedded System Final Project - Brick Breaker
 
 ## Build
 ```bash
-pio run
+pio run 
+```
+
+## Further Documenation
+Insert both pdf links
