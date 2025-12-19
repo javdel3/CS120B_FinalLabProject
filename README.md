@@ -12,4 +12,4 @@ pio run
 ```
 
 ## Further Documenation
-Insert both pdf links
+Insert both pdf links (Report and video link)
