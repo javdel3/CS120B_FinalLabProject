@@ -15,14 +15,26 @@ Embedded System Final Project - Brick Breaker
 Board: <consider listing exact board name> 
 
 ## Build
+1.
 ```bash
 git clone https://github.com/javdel3/CS120B_FinalLabProject.git
 ```
-Open VS Code
+2. Open VS Code
+3. Click File → Open Folder
+4. Select the extracted project folder (the one containing platformio.ini)
+5. Click Open
+6. Give PlatformIO a moment to initailize and configure the environment
+7. 
 ```bash
 pio run
-pio run -t upload
 ```
+8. Connect your AVR board via USB.
+9.
+```bash
+pio run
+```
+10. Play the game using the physical controls
+
 
 ## Further Documenation
 - [Project Report](https://docs.google.com/document/d/1xQkjk_fiwyX08Jr60V6tlZR6wKsNLY-eZAmnz1ztFDk/edit?usp=sharing)
