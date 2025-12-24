@@ -1,6 +1,8 @@
 # CS120B_FinalLabProject
 Embedded System Final Project - Brick Breaker 
 
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/bf0d6262-c630-4601-8428-9927c236858d" />
+
 ## Requirements
 - VS Code
 - PlatformIO extension
@@ -11,8 +13,6 @@ Embedded System Final Project - Brick Breaker
 - Platfrom: atmelavr
 - Board: uno
 - Framework: arduino
-
-Board: <consider listing exact board name> 
 
 ## Build
 1. Download the Project
