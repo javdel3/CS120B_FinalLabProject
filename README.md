@@ -28,10 +28,10 @@ git clone https://github.com/javdel3/CS120B_FinalLabProject.git
 ```bash
 pio run
 ```
-8. Connect your AVR board via USB.
+8. Connect your AVR board via USB
 9. Upload to the Microcontroller
 ```bash
-pio run
+pio run -t upload
 ```
 10. Play the game using the physical controls
 
