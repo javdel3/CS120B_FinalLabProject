@@ -15,7 +15,7 @@ Embedded System Final Project - Brick Breaker
 Board: <consider listing exact board name> 
 
 ## Build
-1.
+1. Download the Project
 ```bash
 git clone https://github.com/javdel3/CS120B_FinalLabProject.git
 ```
@@ -24,12 +24,12 @@ git clone https://github.com/javdel3/CS120B_FinalLabProject.git
 4. Select the extracted project folder (the one containing platformio.ini)
 5. Click Open
 6. Give PlatformIO a moment to initailize and configure the environment
-7. 
+7. Build the Project
 ```bash
 pio run
 ```
 8. Connect your AVR board via USB.
-9.
+9. Upload to the Microcontroller
 ```bash
 pio run
 ```
