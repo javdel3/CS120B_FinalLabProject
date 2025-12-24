@@ -6,10 +6,22 @@ Embedded System Final Project - Brick Breaker
 - PlatformIO extension
 - Physical build according to the wiring diagram
 
+## Supported Hardware
+- MCU: ATmega328P
+- Platfrom: atmelavr
+- Board: uno
+- Framework: arduino
+
+Board: <consider listing exact board name> 
+
 ## Build
 ```bash
+git clone https://github.com/javdel3/CS120B_FinalLabProject.git
+```
+Open VS Code
+```bash
 pio run
-g++
+pio run -t upload
 ```
 
 ## Further Documenation
